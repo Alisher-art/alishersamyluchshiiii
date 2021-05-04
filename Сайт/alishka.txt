@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title>FC Kairat</title>
+    <link href="styles/style1.css" rel="style1sheet" type="text/css">
+</head>
+<body>
+<h1>FC Kairat</h1>
+<h2>FC Kairat was founded in 1954</h2>
+<p><a href="https://fckairat.com/">FC Kairat</a><p>
+<ol>
+   <li>In 1954, the club "Lokomotiv" Alma-Ata was founded on the basis of the Alma-Ata "Dynamo"</li>
+   <li>From 1954 to 1991 he competed in the USSR championship</li>
+   <li><a href="https://vk.com/fckairat"From 1954 to 1991, he played in the USSR championship, including 24 seasons in the Top League</a></li>
+</ol>
+<p><img src="images/kairat.jpg" alt="fckairat" /></p> 
+<h3>Achievements of Kairat Football Club</h3>
+<ul>
+   <li>1966. According to the results of the USSR championship among the teams of the Highest League, "Kairat" wins the prize "For the will to Win"</li>
+   <li>1976. "Kairat" is the first Kazakh club to win the USSR championship among the teams of the First League</li>
+   <li>2016. For the first time in the history of "Kairat" wins the Kazakhstan Football Super Cup</li>
+</ul>
+<h4>FC Kairat the best</h4>
+<p><img src="images/kaira.jpg" alt="kaira" /></p> 
+<p>Your web page content goes here</p>
+</body>
+</html>
